@@ -40,6 +40,8 @@
     }
 
     .about-container{
+        align-items: center;
+        text-align: center;
         grid-template-columns: 1fr;
         .left-about{
             padding-right: 0;
