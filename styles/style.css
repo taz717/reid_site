@@ -202,6 +202,7 @@ section {
   font-size: 3rem;
 }
 .header-content .right-header .name span {
+  display: block;
   color: var(--color-secondary);
 }
 .header-content .right-header p {
