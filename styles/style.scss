@@ -201,6 +201,7 @@ section{
         .name{
             font-size: 3rem;
             span{
+                display: block;
                 color: var(--color-secondary)
             }
         }
@@ -271,7 +272,8 @@ section{
         p{
             line-height: 2rem;
             padding-bottom: 1rem;
-            color: var(--color-grey-1)
+            color: var(--color-grey-1);
+            text-align: justify;
         }
     }
     .right-about{

@@ -202,6 +202,7 @@ section {
   font-size: 3rem;
 }
 .header-content .right-header .name span {
+  display: block;
   color: var(--color-secondary);
 }
 .header-content .right-header p {
@@ -266,6 +267,7 @@ section {
   line-height: 2rem;
   padding-bottom: 1rem;
   color: var(--color-grey-1);
+  text-align: justify;
 }
 .about-container .right-about {
   display: flex;
