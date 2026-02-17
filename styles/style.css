@@ -7,7 +7,7 @@
 
 :root {
   --color-primary: #23252e;
-  --color-secondary: #9C88B3;
+  --color-secondary: #9c88b3;
   --color-white: #fff;
   --color-black: #000;
   --color-grey-0: #f8f8f8;
@@ -18,8 +18,8 @@
   --color-grey-5: #2a2e35;
   --color-grey-6: #12181b;
   --br-sm-2: 14px;
-  --transition-1: all .4s ease-in-out;
-  --box-shadow-1: 0 3px 15px rgba(0,0,0,0.3);
+  --transition-1: all 0.4s ease-in-out;
+  --box-shadow-1: 0 3px 15px rgba(0, 0, 0, 0.3);
 }
 
 .light-mode {
@@ -546,6 +546,7 @@ section {
   }
   .about-container .left-about p {
     padding-left: 0;
+    text-align: left;
   }
   .about-container .image {
     margin-left: 0rem;
